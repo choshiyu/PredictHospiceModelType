@@ -1,0 +1,5 @@
+
+
+lr_parameters:
+Best parameters: {'C': 10, 'max_iter': 300, 'penalty': 'l2'}
+Best score: 0.854182796308684

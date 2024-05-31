@@ -1,0 +1,5 @@
+
+
+rf_parameters:
+Best parameters: {'max_depth': None, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 100}
+Best score: 0.8516589065384069

@@ -1,0 +1,25 @@
+
+
+
+before SMOTE: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after SMOTE: len(label 0) 828 , len(label 1) 828 , len(label 2) 828
+
+
+
+before SMOTE: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after SMOTE: len(label 0) 831 , len(label 1) 831 , len(label 2) 831
+
+
+
+before SMOTE: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after SMOTE: len(label 0) 842 , len(label 1) 842 , len(label 2) 842
+
+
+
+before SMOTE: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after SMOTE: len(label 0) 829 , len(label 1) 829 , len(label 2) 829
+
+
+
+before SMOTE: len(label 0) 572 , len(label 1) 504 , len(label 2) 1973
+after SMOTE: len(label 0) 847 , len(label 1) 847 , len(label 2) 847

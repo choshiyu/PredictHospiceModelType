@@ -1,0 +1,16 @@
+*.pyc
+0_raw_data
+1_Data_preprocess(first)/Output
+2_Data_preprocess(second)/Output
+3_five_fold/3_0_Initial_result/Output
+3_five_fold/3_1_Data_imbalance_processing_experiment/Output
+3_five_fold/3_2_Feature_engineering/Output
+3_five_fold/3_3_Impute_missing_values_experiment/Output
+3_five_fold/3_3_Impute_missing_values_experiment/save_impute_data_5fold
+3_five_fold/3_4_Grid_search/Output
+3_five_fold/3_5_final_model/Output
+4_feature_analysis/DT_tree/data_for_1sample_analysis
+4_feature_analysis/Output
+CompareDropFewDays/0_raw_data
+CompareDropFewDays/1_Data_preprocess(first)/Output
+CompareDropFewDays/2_Data_preprocess(second)/Output

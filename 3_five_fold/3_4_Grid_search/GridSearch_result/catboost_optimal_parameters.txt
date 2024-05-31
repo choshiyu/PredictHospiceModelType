@@ -1,0 +1,5 @@
+
+
+catboost_parameters:
+Best parameters: {'depth': 6, 'iterations': 500, 'l2_leaf_reg': 5, 'learning_rate': 0.1}
+Best score: 0.8815012773511309

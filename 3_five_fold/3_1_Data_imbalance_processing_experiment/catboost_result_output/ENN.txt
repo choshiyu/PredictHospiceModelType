@@ -1,0 +1,25 @@
+
+
+
+before ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 828
+
+
+
+before ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 831
+
+
+
+before ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 842
+
+
+
+before ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 1969
+after ENN: len(label 0) 570 , len(label 1) 516 , len(label 2) 829
+
+
+
+before ENN: len(label 0) 572 , len(label 1) 504 , len(label 2) 1973
+after ENN: len(label 0) 572 , len(label 1) 504 , len(label 2) 847

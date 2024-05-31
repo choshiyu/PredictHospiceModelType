@@ -1,0 +1,5 @@
+
+
+xgb_parameters:
+Best parameters: {'gamma': 0.001, 'learning_rate': 0.15, 'max_depth': 3, 'n_estimators': 200}
+Best score: 0.8803934199863044

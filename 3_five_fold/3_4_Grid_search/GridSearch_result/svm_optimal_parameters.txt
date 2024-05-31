@@ -1,0 +1,5 @@
+
+
+svm_parameters:
+Best parameters: {'C': 1, 'gamma': 0.1, 'kernel': 'rbf'}
+Best score: 0.8756102620321068

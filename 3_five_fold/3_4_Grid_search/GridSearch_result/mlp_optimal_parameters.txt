@@ -1,0 +1,5 @@
+
+
+mlp_parameters:
+Best parameters: {'DropoutRate': 0.05, 'neurons': 16}
+Best score: 0.8413703433935515

@@ -1,0 +1,15 @@
+sex
+DNR
+pain_medication
+dyspnea_medication
+psychosocial_issues_patient
+psychosocial_issues_family
+spirituality_religion_patient
+spirituality_religion_family
+referral
+diagnosis
+religious_beliefs
+new_year
+patient_awareness_diagnosis
+patient_awareness_prognosis
+family_awareness_prognosis

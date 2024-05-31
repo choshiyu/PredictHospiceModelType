@@ -1,0 +1,30 @@
+
+
+
+before CopyAugmentation: len(hhc) 570 , len(hic) 516 , len(hsc) 1969
+
+after CopyAugmentation: len(hhc) 800 , len(hic) 771 , len(hsc) 1969
+
+
+
+before CopyAugmentation: len(hhc) 570 , len(hic) 516 , len(hsc) 1969
+
+after CopyAugmentation: len(hhc) 800 , len(hic) 771 , len(hsc) 1969
+
+
+
+before CopyAugmentation: len(hhc) 570 , len(hic) 516 , len(hsc) 1969
+
+after CopyAugmentation: len(hhc) 800 , len(hic) 767 , len(hsc) 1969
+
+
+
+before CopyAugmentation: len(hhc) 570 , len(hic) 516 , len(hsc) 1969
+
+after CopyAugmentation: len(hhc) 800 , len(hic) 771 , len(hsc) 1969
+
+
+
+before CopyAugmentation: len(hhc) 572 , len(hic) 504 , len(hsc) 1973
+
+after CopyAugmentation: len(hhc) 802 , len(hic) 764 , len(hsc) 1973
